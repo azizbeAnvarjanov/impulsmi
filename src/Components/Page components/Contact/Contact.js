@@ -15,7 +15,7 @@ function Contact() {
                 </a>
                 <div className="form_box">
                     <label>Telefon raqamingizni kiriting</label> 
-                    <input type="text" placeholder='+998 88 254 77 75' name="" id="" />
+                    <input type="text" placeholder='+998 55 510 50 15' name="" id="" />
                     <button>Jo'natish</button>
                 </div>
             </div>
