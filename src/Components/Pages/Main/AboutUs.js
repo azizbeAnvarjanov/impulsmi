@@ -100,7 +100,6 @@ function Main() {
               <h1>Xolmirzayev Orifjon Numonjon o'g'li</h1>
               <h3>Impuls Tibbiyot Instituti rektori</h3>
               <p>Qabul kunlari: Dushanbadan - Shanba, 14:00 - 17:00 gacha</p>
-              <p>Tel: +998 (91) 353 02 52</p>
               <p>E-mail: kholmirzayev@impulsmi.uz</p>
             </div>
           </div>
